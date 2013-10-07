@@ -18,6 +18,13 @@
     <webConsole.examples.version>1.0.0-SNAPSHOT</webConsole.examples.version>
   </properties>
 
+  <scm>
+    <connection>scm:git:https://forge.peergreen.com/git/git/webconsole/peergreen-console-server.git</connection>
+    <developerConnection>scm:git:https://forge.peergreen.com/git/git/webconsole/peergreen-console-server.git</developerConnection>
+    <url>https://forge.peergreen.com/git/summary/?r=webconsole/peergreen-console-server.git</url>
+    <tag>HEAD</tag>
+  </scm>
+
   <dependencies>
     <!-- Tomcat dependencies -->
 
