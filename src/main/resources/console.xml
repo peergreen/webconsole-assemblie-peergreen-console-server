@@ -1,0 +1,10 @@
+<configadmin xmlns="http://jonas.ow2.org/ns/configadmin/1.0">
+
+  <factory-configuration pid="com.peergreen.webconsole.development" xml:id="development-mode">
+    <property name="console.name">Peergreen Example Console</property>
+    <property name="console.alias">/example</property>
+    <property name="console.domains">example</property>
+    <property name="default.roles">developer</property>
+  </factory-configuration>
+
+</configadmin>
