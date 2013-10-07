@@ -9,7 +9,7 @@
 
   <groupId>com.peergreen.webconsole</groupId>
   <artifactId>peergreen-console-server</artifactId>
-  <version>1.0.0-M1</version>
+  <version>1.0.0-M2-SNAPSHOT</version>
   <packaging>peergreen-server</packaging>
 
   <properties>
@@ -20,7 +20,7 @@
     <connection>scm:git:https://forge.peergreen.com/git/git/webconsole/peergreen-console-server.git</connection>
     <developerConnection>scm:git:https://forge.peergreen.com/git/git/webconsole/peergreen-console-server.git</developerConnection>
     <url>https://forge.peergreen.com/git/summary/?r=webconsole/peergreen-console-server.git</url>
-    <tag>PEERGREEN_CONSOLE_SERVER_1_0_0_M1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <dependencies>
